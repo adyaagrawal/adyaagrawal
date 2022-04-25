@@ -1,9 +1,8 @@
-### Hi, Adya here!
-I am a Computer Science undergraduate at VIT, Vellore.
+### Hi, Adya here
 
-#### About me
-I love android development. 
-I am currently exploring machine learning and blockchain.
+- 👩‍🎓  Computer Science undergraduate at VIT, Vellore 
+- 💻  Android developer
+- 🌱  I’m currently exploring machine learning and blockchain
 
 Connect with me: &nbsp; &nbsp;[<img src="https://github.com/get-icon/geticon/raw/master/icons/google-gmail.svg" alt="Gmail" width="20px" height="20px">](mailto:adyaagrawal04@gmail.com)
   &nbsp; &nbsp;[<img src="https://github.com/get-icon/geticon/raw/master/icons/linkedin-icon.svg" alt="LinkedIn" width="20px" height="20px">](https://www.linkedin.com/in/adya-agrawal/)
@@ -61,3 +60,5 @@ Connect with me: &nbsp; &nbsp;[<img src="https://github.com/get-icon/geticon/raw
 <img src="https://github-readme-stats.vercel.app/api?username=adyaagrawal&&show_icons=true&count_private=true&theme=default"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=adyaagrawal&theme=default"/>
+
+![](https://komarev.com/ghpvc/?username=adyaagrawal&color=blue)
