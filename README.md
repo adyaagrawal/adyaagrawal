@@ -2,7 +2,7 @@
  
 - I’m an Android Developer currently pursuing my undergrad in CSE from VIT, Vellore
 - I’m currently learning DSA
-- I’m currently working on machine learning and blockchain projects
+- Working on machine learning and blockchain projects
 
 Connect with me: &nbsp; &nbsp;[<img src="https://github.com/get-icon/geticon/raw/master/icons/google-gmail.svg" alt="Gmail" width="20px" height="20px">](mailto:adyaagrawal04@gmail.com)
   &nbsp; &nbsp;[<img src="https://github.com/get-icon/geticon/raw/master/icons/linkedin-icon.svg" alt="LinkedIn" width="20px" height="20px">](https://www.linkedin.com/in/adya-agrawal/)
